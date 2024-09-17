@@ -1,0 +1,6 @@
+@backend_solidariza_HostAddress = http://localhost:5093
+
+GET {{backend_solidariza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
